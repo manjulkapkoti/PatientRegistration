@@ -1,0 +1,7 @@
+Points to note:
+
+1.All fields except "MiddleName" can not be empty.
+
+2.While editing the record, it is having some issue while loading the date onto the datetimepicker of the existing record because of conversion problem.
+
+3.There is no restriction on "PhoneNo" and "EmailId" value for now.

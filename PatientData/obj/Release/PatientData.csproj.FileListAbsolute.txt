@@ -1,0 +1,12 @@
+D:\CompanyAssignments\PatientRegistrationApp\PatientData\PatientData\bin\Release\PatientData.exe.config
+D:\CompanyAssignments\PatientRegistrationApp\PatientData\PatientData\bin\Release\PatientData.exe
+D:\CompanyAssignments\PatientRegistrationApp\PatientData\PatientData\bin\Release\PatientData.pdb
+D:\CompanyAssignments\PatientRegistrationApp\PatientData\PatientData\obj\Release\PatientData.EditPatientDetails.resources
+D:\CompanyAssignments\PatientRegistrationApp\PatientData\PatientData\obj\Release\PatientData.PatientDetails.resources
+D:\CompanyAssignments\PatientRegistrationApp\PatientData\PatientData\obj\Release\PatientData.PatientDatabase.resources
+D:\CompanyAssignments\PatientRegistrationApp\PatientData\PatientData\obj\Release\PatientData.PatientRecord.resources
+D:\CompanyAssignments\PatientRegistrationApp\PatientData\PatientData\obj\Release\PatientData.Properties.Resources.resources
+D:\CompanyAssignments\PatientRegistrationApp\PatientData\PatientData\obj\Release\PatientData.csproj.GenerateResource.Cache
+D:\CompanyAssignments\PatientRegistrationApp\PatientData\PatientData\obj\Release\PatientData.csproj.CoreCompileInputs.cache
+D:\CompanyAssignments\PatientRegistrationApp\PatientData\PatientData\obj\Release\PatientData.exe
+D:\CompanyAssignments\PatientRegistrationApp\PatientData\PatientData\obj\Release\PatientData.pdb
